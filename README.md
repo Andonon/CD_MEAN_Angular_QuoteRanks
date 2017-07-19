@@ -1,3 +1,12 @@
+# CD_MEAN_Angular_QuoteRanks
+Troy Center troycenter1@gmail.com July 2017
+Coding Dojo Angular Fundamentals, Quote Ranks assignment
+
+## Quote Ranks
+Create an app which a user can create a quote with an author. Each quote should include a rating value which by default starts at 0. Allow the user to increase and decrease ratings for each quote. As a bonus, sort the quotes by highest to lowest ratings.
+
+<img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-QuoteRanks.png" alt="Coding Dojo Assignment Image">
+
 # Quoteranks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
