@@ -7,6 +7,8 @@ Create an app which a user can create a quote with an author. Each quote should 
 
 <img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/Angular-QuoteRanks.png" alt="Coding Dojo Assignment Image">
 
+## My Notes: No DB is attached to this assignment. I used a technique of active = 1 or active = 0 to track the deleted items. Each page refresh will erase the array and all data. Expect to add a database in later lessons. Troy
+
 # Quoteranks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
